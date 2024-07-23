@@ -37,7 +37,7 @@ dependencies {
     implementation 'com.google.android.gms:play-services-ads:12.0.1'
     implementation 'androidx.multidex:multidex:2.0.1'
     implementation 'com.hkm.loyalslider:library:1.6.2'
-    implementation 'com.github.Zuhairdi:recyclerview-animators:Tag'
+    // implementation 'com.github.Zuhairdi:recyclerview-animators:Tag'
     //compile 'com.marshalchen.ultimaterecyclerview:library:0.8.0'
     api project(':ultimaterecyclerview')
     //used in the gridlayout
