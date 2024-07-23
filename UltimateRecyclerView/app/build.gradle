@@ -26,6 +26,8 @@ repositories {
         dirs 'libs'
     }
     maven { url "http://dl.bintray.com/jjhesk/maven" }
+    mavenCentral()
+	maven { url 'https://jitpack.io' }
 }
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
